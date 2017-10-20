@@ -1,6 +1,3 @@
-/**
- * Created by renu.yadav on 20/10/17.
- */
 public class quick_sort {
     /**
      * quick sort works on divide and conquer technique , by chossing a pivot element
