@@ -1,6 +1,6 @@
-public class Insertion_Sort<E> {
+public class SelectionSort<E> {
 
-    public <E extends Comparable<E>> void insertionSort(E[] arr){
+    public <E extends Comparable<E>> void selectionSort(E[] arr){
         int i, j;
         int min;
         E tmp;
