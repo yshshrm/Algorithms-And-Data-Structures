@@ -2,7 +2,7 @@
 For Hacktoberfest 2017!
 
 ### About
-Consists of data-structures and algorithms language wise.
+This Repo consists of data-structures and algorithms sorted by programming language.
 
 ### Contributing Guidelines
 - The repository is structured language-wise i.e. algorithms in a certain language go in a specific folder.
